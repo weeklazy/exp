@@ -1,0 +1,3 @@
+# _config.yml
+redirect_from: /exploit
+redirect_to: http://localhost/flag
